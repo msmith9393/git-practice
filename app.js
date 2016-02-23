@@ -1,5 +1,5 @@
 var randomPerson = {
-  name: 'Rochelle',
+  change-name2: 'Rochelle',
   email: 'rochelle.lee@hackreactor.com',
   phone: 5109983957
 };
